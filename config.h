@@ -14,9 +14,9 @@ static const Block blocks[] = {
 	{"",	"sb-volume",	60,	10},
 	{"",  "sb-yellow",     0, 0},
 	{"",	"sb-datetime",	1,	1},
-	{"",  "sb-blue",     0, 0},
+	{"",  "sb-teal",     0, 0},
 	{"",	"sb-battery",	5,	3},
-	{"",  "sb-red",     0, 0},
+	{"",  "sb-cyan",     0, 0},
 };
 
 //Sets delimiter between status commands. NULL character ('\0') means no delimiter.
